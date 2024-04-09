@@ -12,6 +12,8 @@ Frontend
 -JAVA SCRIPT
 -UI, UX
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 
 경험기술
 첫 번째 미니 프로젝트에서 팀원 5명과 노래방 컨셉으로 '랜덤 플레이 노래와 가수 맞추기' 주제로 진행했습니다. 3일이라는 짧은 기간 동안 완성이라는 공동 목표를 가지고 집단 지성을 활용해서 프로젝트를 끝 마쳤습니다. 노력한 끝에 1등 수상이라는 결과물을 도출해내었습니다. 처음으로 맡은 프로젝트인 만큼 혼자서 해야 한다는 어려움이 있었지만 팀원들의 협동이 없었으면 완성을 못했을 만큼 협업과 의사소통이 중요하다는 걸 깨달았습니다.
